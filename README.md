@@ -3,10 +3,10 @@
 # Abstract
 Social media is often only one click away. Now more than ever, it is entangled with our everyday life. To put it another way, what happens if social media does not stop when we leave the site or delete the post we no longer want to share with the world? What if our social media posts are used unintentionally, furthermore, contain incidental data? Thus, data or information we - did not - intend to share with the world but can be found within our social media posts. What if this incidental data can be used to harm our beloved ones or ourselves?  Moreover, such data combined with publicly free available governmental databases, such as the company register, can be used to compromise privacy even further. Within this master’s thesis it was analyzed how incidental data can be found, what are the legal obligations and the monetary value behind it. Moreover, it was possible to gain interview partners such as the Criminal Intelligence Service Austria or the owner of Techlore, a company that specializes in privacy for the masses. As methodology, Open Source Intelligence Methods were used to gather incidental data. During each case, the time to search for information was limited to 2 hours. Interestingly it was possible to show that incidental data can also be found among web security experts such as Troy Hunt. With the input of such cases, an abstract fictive scenario was created to evaluate the legal implications of gathering incidental data. Further, the monetary value of incidental data using expert interviews was tried to be evaluated. In the end, the results have shown that privacy needs to be more emphasized on a governmental as well as on a private level. For this reason, a change of law is proposed as one of the results of this master’s thesis.
 
-### Shows process of address identification
+### Shows Process of Address Identification
 <img src="readme/address_identification.png" alt="Shows process of address identification" width="600px" align="center" />  
 
-### Shows process of address verifcation
+### Shows Process of Address Verifcation
 <img src="readme/address_verification.png" alt="Shows process of address verifcation" width="600px" align="center" />
 
 
@@ -26,9 +26,9 @@ Social media is often only one click away. Now more than ever, it is entangled w
 13.	Don’t share information of your own or surrounding WLAN/WiFi SSID
 
 
-### Used network setup (Abstract)
+### Used Network Setup (Abstract)
 <img src="readme/network_setup_abstract.png" alt="Shows process of address verifcation" width="600px" align="center" />
 
 
-### Used network setup (Detailed)
+### Used Network Setup (Detailed)
 <img src="readme/network_setup_detailed.png" alt="Shows process of address verifcation" width="600px" align="center" />
